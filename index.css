@@ -1,5 +1,5 @@
 body {
-    background: linear-gradient(rgba(255, 255, 255, 0.7)), url("img/coffee-shop.webp");
+    background: linear-gradient(rgba(255, 255, 255, 0.7)), url("coffee-shop.webp");
     background-size: cover;
     font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
     font-weight: bold;
